@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **cross platform applications development**
 
-- 👨‍💻 All of my projects are available at [[https://fuya-dev.netlify.app/](https://fuya-dev.netlify.app/](https://fuya-modern-coder.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://fuya-modern-coder.netlify.app/](https://fuya-modern-coder.netlify.app/)
 
 - 📝 I regularly write articles on [https://fuyafall.netlify.app/](https://fuyafall.netlify.app/)
 
