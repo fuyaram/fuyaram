@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **cross platform applications development**
 
-- 👨‍💻 All of my projects are available at [https://fuya-modern-coder.netlify.app/](https://fuya-modern-coder.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fuya-modern-coder.netlify.app/](https://chavda-sde-coder.netlify.app/)
 
 - 📝 I regularly write articles on [https://fuyafall.netlify.app/](https://fuyafall.netlify.app/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/fuyaram-dewasi-954367234/**
 
-- 📄 Know about my experiences [https://fuyadev-services.netlify.app/](https://fuyadev-services.netlify.app/)
+- 📄 Know about my experiences [https://fuyadev-services.netlify.app/](https://fuya-dev-services.netlify.app/)
 
 - ⚡ Fun fact **crazy, and fun with my creativity, and interact people in just second good speaker, communication, always good communicator with seniors.**
 
