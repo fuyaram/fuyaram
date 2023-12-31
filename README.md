@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **cross platform applications development**
 
-- 👨‍💻 All of my projects are available at [https://chavda-sde.netlify.app/](https://chavda-sde.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fuya-dev-front-end-engineer.netlify.app/](https://fuya-dev-front-end-engineer.netlify.app/)
 
 - 📝 I regularly write articles on [https://fuyafall.netlify.app/](https://fuyafall.netlify.app/)
 
