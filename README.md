@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fuyaram</h1>
-<h3 align="center">A young(18) passionate full stack web developer from India</h3>
+<h3 align="center">software developer engineer from India</h3>
 
 
 
