@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **next.js, react native,**
 
-- 👯 I’m looking to collaborate on **social Midea application**
+- 👯 I’m looking to collaborate on **finance software**
 
 - 🤝 I’m looking for help with **cross platform applications development**
 
-- 💬 Ask me about **react.js,next.js,react native,app development, web development, frontend development.**
+- 💬 Ask me about **react.js,next.js,react native,app development, web development, frontend development, software development, testing, debugging,errors handling.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/fuyaram-dewasi-954367234/**
 
