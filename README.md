@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **next.js, react native,**
 
-- 👯 I’m looking to collaborate on **finance software**
+- 👯 I’m looking to collaborate on ****solove users problems** **
 
 - 🤝 I’m looking for help with **cross platform applications development**
 
